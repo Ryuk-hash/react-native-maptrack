@@ -12,4 +12,4 @@
 
 # Course:
 
-#### Stephen Grider's
+#### Stephen Grider's [React Native & Redux Course](https://www.udemy.com/course/the-complete-react-native-and-redux-course)
